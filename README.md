@@ -98,4 +98,4 @@ curl -X POST http://localhost:4000/generate-flashcards \
 
 - Never commit your OpenAI API key.
 - If you want to demo without a key, omit it in `.env` and the backend will return fallback sample cards.
-
+- I didn't pushed my .env file which has api key so for security concern
